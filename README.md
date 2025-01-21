@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, aprendizado contínuo e 
 - 📚 Sempre buscando expandir meus conhecimentos em Data Science, algoritmos e desenvolvimento de software.
 
 ## Projetos em destaque
-Aqui estão alguns dos meus projetos mais recentes:
+Aqui estão alguns dos meus projetos mais recentes(em desenvolvimento):
 - **[Projeto de Integração de API e Planejamento Educacional](#)** - Um site que organiza dias letivos e planos de estudo de forma dinâmica e personalizável.
 - **[Problema do Caixeiro Viajante (TSP)](#)** - Projeto de extensão focado em algoritmos aproximados no contexto de logística urbana.
 
@@ -20,4 +20,4 @@ Aqui estão alguns dos meus projetos mais recentes:
 > "A jornada do aprendizado é eterna, e cada passo é uma nova descoberta."  
 
 ---
-⭐️ Não esqueça de deixar uma estrela nos repositórios que você gostar!
+

@@ -18,7 +18,6 @@ Aqui estão alguns dos meus projetos mais recentes:
 ---
 
 > "A jornada do aprendizado é eterna, e cada passo é uma nova descoberta."  
-(Marcelo Roner)
 
 ---
 ⭐️ Não esqueça de deixar uma estrela nos repositórios que você gostar!
